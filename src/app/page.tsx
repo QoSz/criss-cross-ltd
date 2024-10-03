@@ -13,6 +13,9 @@ const products = [
   { id: 8, name: 'Black Tea', category: 'Tea', price: 6.99, image: 'https://g-bpcqkbqjs0d.vusercontent.net/placeholder.svg?height=200&width=200' },
   { id: 9, name: 'Chamomile Tea', category: 'Tea', price: 7.99, image: 'https://g-bpcqkbqjs0d.vusercontent.net/placeholder.svg?height=200&width=200' },
   { id: 10, name: 'Earl Grey Tea', category: 'Tea', price: 8.99, image: 'https://g-bpcqkbqjs0d.vusercontent.net/placeholder.svg?height=200&width=200' },
+  { id: 11, name: 'Lavender Soap', category: 'Soaps', price: 4.99, image: 'https://g-bpcqkbqjs0d.vusercontent.net/placeholder.svg?height=200&width=200' },
+  { id: 12, name: 'Rose Soap', category: 'Soaps', price: 5.49, image: 'https://g-bpcqkbqjs0d.vusercontent.net/placeholder.svg?height=200&width=200' },
+  { id: 13, name: 'Tea Tree Soap', category: 'Soaps', price: 6.99, image: 'https://g-bpcqkbqjs0d.vusercontent.net/placeholder.svg?height=200&width=200' },
 ]
 
 export default function Home() {
